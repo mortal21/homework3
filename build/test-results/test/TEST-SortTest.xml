@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-02-18T18:25:04" hostname="MORTAL" time="0.147">
+  <properties/>
+  <testcase name="notNullTest()" classname="SortTest" time="0.096"/>
+  <testcase name="negativeNumbersTest()" classname="SortTest" time="0.01"/>
+  <testcase name="oneNumberTest()" classname="SortTest" time="0.005"/>
+  <testcase name="positiveTest()" classname="SortTest" time="0.005"/>
+  <testcase name="sameNumbersTest()" classname="SortTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
